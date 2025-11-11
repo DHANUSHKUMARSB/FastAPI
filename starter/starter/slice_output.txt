@@ -1,0 +1,16 @@
+education =  Bachelors | Precision: 0.952 | Recall: 0.945 | F1: 0.949
+education =  HS-grad | Precision: 0.948 | Recall: 0.884 | F1: 0.914
+education =  11th | Precision: 1.000 | Recall: 0.867 | F1: 0.929
+education =  Masters | Precision: 0.962 | Recall: 0.968 | F1: 0.965
+education =  9th | Precision: 1.000 | Recall: 0.926 | F1: 0.962
+education =  Some-college | Precision: 0.953 | Recall: 0.906 | F1: 0.929
+education =  Assoc-acdm | Precision: 0.957 | Recall: 0.925 | F1: 0.940
+education =  Assoc-voc | Precision: 0.949 | Recall: 0.920 | F1: 0.934
+education =  7th-8th | Precision: 0.972 | Recall: 0.875 | F1: 0.921
+education =  Doctorate | Precision: 0.971 | Recall: 0.984 | F1: 0.977
+education =  Prof-school | Precision: 0.961 | Recall: 0.983 | F1: 0.972
+education =  5th-6th | Precision: 1.000 | Recall: 0.875 | F1: 0.933
+education =  10th | Precision: 0.929 | Recall: 0.839 | F1: 0.881
+education =  1st-4th | Precision: 1.000 | Recall: 1.000 | F1: 1.000
+education =  Preschool | Precision: 1.000 | Recall: 1.000 | F1: 1.000
+education =  12th | Precision: 1.000 | Recall: 0.909 | F1: 0.952

@@ -49,3 +49,24 @@ Working in a command line environment is recommended for ease of use with git an
     * Hint: development in Python is fast! But how fast you can iterate slows down if you rely on your CI/CD to fail before fixing an issue. I like to run flake8 locally before I commit changes.
     * Note: Install flake8 separately if needed: `pip install flake8`
 * Write a script that uses the requests module to do one POST on your live API.
+
+### 📸 Project Screenshots
+
+| Screenshot                          | Description                             |
+| ----------------------------------- | --------------------------------------- |
+| ![CI](./continuous_integration.png) | ✅ GitHub Actions CI pipeline passed    |
+| ![CD](./continuous_deployment.png)  | 🚀 Deployment configuration Render      |
+| ![GET](./live_get.png)              | 🌐 Root endpoint response               |
+| ![POST](./live_post.png)            | 🧠 Prediction API working               |
+| ![Example](./example.png)           | 📘 Example request body in FastAPI docs |
+
+🌍 Live API URL
+
+👉 https://census-fastapi-dhanush.onrender.com/
+
+🧾 GitHub Repository
+
+👉 https://github.com/DHANUSHKUMARSB/FastAPI.git
+
+📜 Model Card
+see model_card_template.md
